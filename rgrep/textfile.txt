@@ -1,0 +1,10 @@
+This is a text file
+To test the functionality
+Of my rgrep project.
+Nothing special,
+Just a simple file.
+
+Do you think this contains
+Too many words?
+Well, maybe...
+But I don't care.
